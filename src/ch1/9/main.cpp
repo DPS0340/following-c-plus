@@ -25,7 +25,7 @@ int main(void) {
     // 하드코딩 방식
 
     // this is important
-    int x = 1 + 2;
+    x = 1 + 2;
 
     // this is important, too
     int y = 3 + 4;
