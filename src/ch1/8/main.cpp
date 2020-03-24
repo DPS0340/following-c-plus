@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 이번 강좌의 주제
+// 이번 강의의 주제
 // 연산자와의 첫 만남
 
 int main(void) {

@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 이번 강좌의 주제
+// 이번 강의의 주제
 
 // 기본적인 서식 맞추기
 // formatting

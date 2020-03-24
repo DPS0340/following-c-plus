@@ -1,6 +1,6 @@
 #include <iostream>
 
-// 이번 강좌의 주제
+// 이번 강의의 주제
 
 // 객체와 변수
 // l-values와 r-values

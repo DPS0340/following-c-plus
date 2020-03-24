@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 이번 강좌의 주제
+// 이번 강의의 주제
 
 // 선언과         정의의 분리
 // Declaration   Definition
