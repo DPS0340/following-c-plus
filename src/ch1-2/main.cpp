@@ -6,6 +6,9 @@
 // 그러나 사수가 하라면 해야된다
 #include <iostream>
 
+// 이번 강의의 주제
+// 주석 잘 쓰는 법
+
 int main(void) {
     int x = 2;
     x = 5;
